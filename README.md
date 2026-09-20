@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jypiter112
 
 ICT Student at UTU<br>
-C/C++ developer and cybersecurity<br>
+C/C++, Java, python, cybersecurity<br>
 THM: [TryHackMe page](https://tryhackme.com/p/J.Poppps1)<br>
 <br>
 Notable projects:<br>
