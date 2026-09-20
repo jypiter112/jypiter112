@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @jypiter112
 
-ICT Student at UTU.<br>
-Checkout /developments it contains my currently running/worked on programming projects.<br>
-Also checkout /compiler
+ICT Student at UTU
+Checkout:<br>
+`/compiler` an elf assembly compiler programmed in C/C++ from scratch<br>
+`/AI` an yolo v11 image detection model trained to detect enemies in Arma3<br>
+`/developments` all projects, linux-kernel-modules (simple firewall) and other stuff<br> 
