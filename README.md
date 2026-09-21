@@ -2,7 +2,8 @@
 
 ICT Student at UTU<br>
 C/C++, Java, python, cybersecurity<br>
-THM: [TryHackMe page](https://tryhackme.com/p/J.Poppps1)<br>
+[TryHackMe page](https://tryhackme.com/p/J.Poppps1)<br>
+[LeetCode page](https://leetcode.com/u/joonaylitalok22/)<br>
 <br>
 Notable projects:<br>
 `/compiler` an elf assembly compiler programmed in C/C++ from scratch<br>
